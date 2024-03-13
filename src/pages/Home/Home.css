@@ -1,0 +1,10 @@
+
+.homeDesign {
+    height: 82vh;
+    width: 100vw;
+    background-color: lightgray;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}

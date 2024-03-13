@@ -1,0 +1,10 @@
+
+.registerDesign {
+    height: 82vh;
+    width: 100vw;
+    background-color: lightsalmon;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
